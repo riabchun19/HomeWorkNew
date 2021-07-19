@@ -1,0 +1,4 @@
+﻿  QuadraticEquation.c
+C:\Users\Олександр\source\repos\HelloApp2\QuadraticEquation\QuadraticEquation.c(16,17): warning C4013: findingRoots: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Олександр\source\repos\HelloApp2\QuadraticEquation\QuadraticEquation.c(46): warning C4716: findingRoots: должна возвращать значение
+  QuadraticEquation.vcxproj -> C:\Users\Олександр\source\repos\HelloApp2\Debug\QuadraticEquation.exe

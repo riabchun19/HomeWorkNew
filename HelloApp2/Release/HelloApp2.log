@@ -1,0 +1,12 @@
+﻿  Hello.c
+C:\Users\Олександр\source\repos\HelloApp2\HelloApp2\Hello.c(20,32): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\Олександр\source\repos\HelloApp2\HelloApp2\Hello.c(23,36): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\Олександр\source\repos\HelloApp2\HelloApp2\Hello.c(26,39): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\Олександр\source\repos\HelloApp2\HelloApp2\Hello.c(29,34): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\Олександр\source\repos\HelloApp2\HelloApp2\Hello.c(32,34): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\Олександр\source\repos\HelloApp2\HelloApp2\Hello.c(35,34): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  Создание кода
+  Создание кода завершено
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  HelloApp2.vcxproj -> C:\Users\Олександр\source\repos\HelloApp2\Release\HelloApp2.exe

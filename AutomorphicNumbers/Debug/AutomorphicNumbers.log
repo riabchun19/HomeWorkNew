@@ -1,0 +1,5 @@
+﻿  AutomorphicNumbers.c
+C:\Users\Олександр\source\repos\HelloApp2\AutomorphicNumbers\AutomorphicNumbers.c(17,10): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "unsigned __int64 *"
+C:\Users\Олександр\source\repos\HelloApp2\AutomorphicNumbers\AutomorphicNumbers.c(17,10): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\Олександр\source\repos\HelloApp2\AutomorphicNumbers\AutomorphicNumbers.c(17,10): message : рекомендуется использовать "%I64d" в строке форматирования
+  AutomorphicNumbers.vcxproj -> C:\Users\Олександр\source\repos\HelloApp2\Debug\AutomorphicNumbers.exe

@@ -1,0 +1,3 @@
+﻿  Generator.c
+C:\Users\Олександр\source\repos\HelloApp2\randomNumberGenerator\Generator.c(23,15): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+  randomNumberGenerator.vcxproj -> C:\Users\Олександр\source\repos\HelloApp2\Debug\RandomNumberGenerator.exe
